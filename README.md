@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Jebin
 
-<!--
-**Jebin511/Jebin511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pre-final year Computer Science Student  
+💻 Flutter Developer | Supabase | Go | DSA  
+🚀 Building real-world apps and preparing for placements  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Currently Working On
+- Student Quest Platform (LinkedIn for students)
+- Flutter + Supabase Social App
+- DSA practice (LeetCode)
+
+---
+
+## 🛠️ Tech Stack
+- Flutter
+- Supabase
+- Golang
+- PostgreSQL
+- Firebase
+
+---
+
+## 📈 Goals 2026
+- Crack placements
+- Master System Design
+- Become strong in Async & Backend
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/jebin-jg511/
+- Email: jebinjg511@gmail.com
