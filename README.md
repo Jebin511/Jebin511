@@ -1,6 +1,6 @@
 # Hi 👋 I'm Jebin
 
-🎓 Pre-final year Computer Science Student  
+🎓 Final year Computer Science Student  
 💻 Flutter Developer | Supabase | Go | DSA  
 🚀 Building real-world apps and preparing for placements  
 
